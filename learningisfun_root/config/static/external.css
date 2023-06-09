@@ -1,0 +1,32 @@
+/*Header*/
+.logo-top {
+  width: 100px;
+  height: 40px;
+  float: left;
+  margin: 0px 0px 5px 80px;
+}
+
+.phone-number {
+  width: 200px;
+  height: 40px;
+  float: right;
+  margin: 20px 10px 5px 20px;
+}
+
+.whatsapp-number {
+  width: 35px;
+  height: 35px;
+  float: right;
+  margin: 15px 30px 5px 20px;
+  background: url(./img/wa-image-color.png) no-repeat center top / cover;
+  transition: 0.5s ease-in-out;
+}
+.telegram-number {
+  width: 35px;
+  height: 35px;
+  float: right;
+  margin: 15px 30px 5px 20px;
+  background: url(./img/tg-image-color.png) no-repeat center top / cover;
+  transition: 0.5s ease-in-out;
+}
+
