@@ -1,0 +1,17 @@
+{
+    "c:\\Users\\vmina\\OneDrive\\Desktop\\Odcore\\django_project_explorer\\django-projects-explorer\\Parsers": {
+        "github_data.json": "c:\\Users\\vmina\\OneDrive\\Desktop\\Odcore\\django_project_explorer\\django-projects-explorer\\Parsers\\github_api_and_selenium\\github_data.json",
+        "github_packages_parser.py": "c:\\Users\\vmina\\OneDrive\\Desktop\\Odcore\\django_project_explorer\\django-projects-explorer\\Parsers\\github_api_and_selenium\\github_packages_parser.py",
+        "git_data_description": "c:\\Users\\vmina\\OneDrive\\Desktop\\Odcore\\django_project_explorer\\django-projects-explorer\\Parsers\\github_api_and_selenium\\git_data_description",
+        "requirements.txt": "c:\\Users\\vmina\\OneDrive\\Desktop\\Odcore\\django_project_explorer\\django-projects-explorer\\Parsers\\requests_and_bs4\\requirements.txt",
+        "sorting_packages.py": "c:\\Users\\vmina\\OneDrive\\Desktop\\Odcore\\django_project_explorer\\django-projects-explorer\\Parsers\\github_api_and_selenium\\sorting_packages.py",
+        "adsds.xlsx": "c:\\Users\\vmina\\OneDrive\\Desktop\\Odcore\\django_project_explorer\\django-projects-explorer\\Parsers\\github_api_and_selenium\\driver\\adsds.xlsx",
+        "geckodriver.exe": "c:\\Users\\vmina\\OneDrive\\Desktop\\Odcore\\django_project_explorer\\django-projects-explorer\\Parsers\\github_api_and_selenium\\driver\\geckodriver.exe",
+        "github_py_files_data.json": "c:\\Users\\vmina\\OneDrive\\Desktop\\Odcore\\django_project_explorer\\django-projects-explorer\\Parsers\\github_py_files\\github_py_files_data.json",
+        "github_py_files_parser.py": "c:\\Users\\vmina\\OneDrive\\Desktop\\Odcore\\django_project_explorer\\django-projects-explorer\\Parsers\\github_py_files\\github_py_files_parser.py",
+        "django_packages.json": "c:\\Users\\vmina\\OneDrive\\Desktop\\Odcore\\django_project_explorer\\django-projects-explorer\\Parsers\\requests_and_bs4\\django_packages.json",
+        "django_packages.py": "c:\\Users\\vmina\\OneDrive\\Desktop\\Odcore\\django_project_explorer\\django-projects-explorer\\Parsers\\requests_and_bs4\\django_packages.py",
+        "django_packages_data.py": "c:\\Users\\vmina\\OneDrive\\Desktop\\Odcore\\django_project_explorer\\django-projects-explorer\\Parsers\\requests_and_bs4\\django_packages_data.py",
+        "django_packages_page_data.json": "c:\\Users\\vmina\\OneDrive\\Desktop\\Odcore\\django_project_explorer\\django-projects-explorer\\Parsers\\requests_and_bs4\\django_packages_page_data.json"
+    }
+}
